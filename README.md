@@ -7,6 +7,7 @@ This project:
 - IDE: Intellij
 
 Runapp:
+- Go: src/main/resources/application.properties and change your db info
 - Go: src/main/java/com/zenClothing/ZenClothingApplication.java
 - Run
 - Go: http://localhost:8081/users to interact with this App
